@@ -65,7 +65,7 @@ github.com/google/cel-go/parser/gen
 # github.com/google/uuid v1.6.0
 ## explicit
 github.com/google/uuid
-# github.com/gosimple/slug v1.12.0
+# github.com/gosimple/slug v1.15.0
 ## explicit; go 1.11
 github.com/gosimple/slug
 # github.com/gosimple/unidecode v1.0.1
