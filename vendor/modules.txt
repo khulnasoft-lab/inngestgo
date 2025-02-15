@@ -100,7 +100,7 @@ github.com/hashicorp/hcl/json/token
 # github.com/inngest/expr v0.0.0-20241106234328-863dff7deec0
 ## explicit; go 1.23.2
 github.com/inngest/expr
-# github.com/inngest/inngest v1.4.7-0.20250207180519-4bc7eb38dbfa
+# github.com/inngest/inngest v1.4.7-0.20250214211428-4566153a2496
 ## explicit; go 1.23.2
 github.com/inngest/inngest/pkg/connect/types
 github.com/inngest/inngest/pkg/connect/wsproto
@@ -270,6 +270,7 @@ github.com/twmb/franz-go/pkg/kgo
 github.com/twmb/franz-go/pkg/kgo/internal/sticky
 github.com/twmb/franz-go/pkg/kversion
 github.com/twmb/franz-go/pkg/sasl
+github.com/twmb/franz-go/pkg/sasl/scram
 # github.com/twmb/franz-go/pkg/kmsg v1.9.0
 ## explicit; go 1.21
 github.com/twmb/franz-go/pkg/kmsg
@@ -380,6 +381,7 @@ golang.org/x/crypto/internal/alias
 golang.org/x/crypto/internal/poly1305
 golang.org/x/crypto/nacl/box
 golang.org/x/crypto/nacl/secretbox
+golang.org/x/crypto/pbkdf2
 golang.org/x/crypto/salsa20/salsa
 # golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c
 ## explicit; go 1.22.0
