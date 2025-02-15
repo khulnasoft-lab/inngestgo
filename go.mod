@@ -5,7 +5,7 @@ go 1.23.2
 require (
 	github.com/coder/websocket v1.8.12
 	github.com/google/uuid v1.6.0
-	github.com/gosimple/slug v1.12.0
+	github.com/gosimple/slug v1.15.0
 	github.com/gowebpki/jcs v1.0.1
 	github.com/inngest/inngest v1.4.7-0.20250214211428-4566153a2496
 	github.com/oklog/ulid/v2 v2.1.0
