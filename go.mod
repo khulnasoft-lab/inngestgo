@@ -10,7 +10,7 @@ require (
 	github.com/inngest/inngest v1.4.7-0.20250207180519-4bc7eb38dbfa
 	github.com/oklog/ulid/v2 v2.1.0
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
-	github.com/sashabaranov/go-openai v1.35.6
+	github.com/sashabaranov/go-openai v1.37.0
 	github.com/stretchr/testify v1.9.0
 	github.com/xhit/go-str2duration/v2 v2.1.0
 	golang.org/x/sync v0.10.0
